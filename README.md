@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I'm a senior software engineer in JLR. <br>I'm a certified GenAI & LLM Associate by NVIDIA and currently preparing for cloud certification.<br><br>I'm building automated workflows and scalable software solutions in my company.<br>I'm currently working on AI Engineering, LLM, RAG, Agents, Generative AI and I'm currently learning Android mobile application development and AI Engineering on my own.<br><br>I'm looking to collaborate on machine learning & artificial intelligence.<br><br>Ask me about anything about Python!
+Hello, I'm a senior software engineer in JLR. <br>I'm a certified GenAI & LLM Associate by NVIDIA and currently preparing for cloud certification.<br><br>I build automated workflows and scalable software solutions in my company.<br>I'm currently working on AI Engineering, LLM, RAG, Agents, Generative AI and I'm currently learning Android mobile application development and AI Engineering on my own.<br><br>I'm looking to collaborate on machine learning & artificial intelligence.<br><br>Ask me about anything about Python!
 
 
 ## 🌐 Socials:
